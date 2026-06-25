@@ -3,9 +3,7 @@
 Sistem manajemen artikel berbasis REST API dengan arsitektur modern
 PHP CodeIgniter Vue.js Axios MySQL License
 
-
 Proyek full-stack yang menggabungkan CodeIgniter 4 sebagai backend REST API dengan Vue.js 3 sebagai frontend Single Page Application (SPA).
-
 
 👤 Identitas
 Nama : Ahmad Rizky Pramudia Pratama
